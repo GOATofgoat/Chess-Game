@@ -4,8 +4,8 @@ Interactive chess game built with Python and Pygame.
 The game supports drag-and-drop movement, turn logic, legal piece movement, captures, and early check detection.
 I’m actively expanding the project to include full chess rules, win detection, and an AI opponent.
 
-https://github.com/GOATofgoat/Chess-Game/issues/1#issue-3678461985
-
+[https://github.com/GOATofgoat/Chess-Game/issues/1#issue-3678461985
+](https://github.com/user-attachments/assets/b2b16c4f-e18a-467e-974f-d8c83ee07148)
 
 
 FEATURES IMPLEMENTED:
