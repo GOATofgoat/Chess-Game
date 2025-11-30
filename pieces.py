@@ -10,7 +10,7 @@ class Piece(pygame.sprite.Sprite):
         self.row = row
         self.col = col
 
-        path = f"images/{color}_{type}.png"
+        path = f"assets/{color}_{type}.png"
         self.image = pygame.image.load(path).convert_alpha()
         self.image = pygame.transform.scale(self.image, PIECE_IMAGE_SCALE)
         self.rect = self.image.get_rect()

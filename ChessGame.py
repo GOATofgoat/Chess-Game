@@ -68,7 +68,7 @@ def apply_promotion(board_state, all_sprites, pos, color, new_type, turn):
     pawn.type = new_type
     
    
-    img_path = f"images/{color}_{new_type}.png"
+    img_path = f"assets/{color}_{new_type}.png"
     try:
         new_img = pygame.image.load(img_path).convert_alpha()
         pawn.image = pygame.transform.scale(new_img, PIECE_IMAGE_SCALE)  # (40, 50)
