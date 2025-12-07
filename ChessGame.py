@@ -1,22 +1,3 @@
-"""
-Louis Urbina
-Sources: (PyGame Documentation: https://www.pygame.org/docs/index.html, Sprite Images: https://opengameart.org/)
-
-May 2025 - August 2025: 
-- Chess board and piece rendering using Pygame sprites and images
-- Piece movement logic for all standard chess pieces (pawn, rook, knight, bishop, queen, king)
-- Turn tracking and board flipping
-- Piece selection and drag and drop movement with mouse events
-- Move validation for all pieces, including legal moves and captures
-- Capturing opponent pieces and removing them from the board and sprite group
-- Basic check detection using check function
-- Source attribution for images and documentation
-
-
-Nov 17, 2025 - Nov 18, 2025: 
-- Added pawn promotion to logic and pop up menu for selecting promotion piece
-
-"""
 
 import pygame
 from constants import SCREEN_WIDTH, SCREEN_HEIGHT, BACKGROUND_IMG_PATH, CHESSBOARD_IMG_PATH, PIECE_IMAGE_SCALE
