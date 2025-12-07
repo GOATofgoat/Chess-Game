@@ -9,6 +9,7 @@ I’m actively expanding the project to include full chess rules, win detection,
 
 
 FEATURES IMPLEMENTED:
+   
    8×8 chessboard rendering
 
    Drag-and-drop piece movement
@@ -26,7 +27,9 @@ FEATURES IMPLEMENTED:
    Organized object-oriented code structure
    
 
+
 FEATURES IN PROGRESS:
+  
   Castling (king-side & queen-side)
   
   Pawn promotion UI

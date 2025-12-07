@@ -1,4 +1,3 @@
-
 import pygame
 from constants import SCREEN_WIDTH, SCREEN_HEIGHT, BACKGROUND_IMG_PATH, CHESSBOARD_IMG_PATH, PIECE_IMAGE_SCALE
 from pieces import is_valid_move, look_for_check, is_legal_move
